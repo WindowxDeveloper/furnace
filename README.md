@@ -92,6 +92,7 @@ for other operating systems, you may [build the source](#developer-info).
     - Commander X16 VERA
     - tildearrow Sound Unit
     - PowerNoise
+    - 5E01 (A modified 2A03)
     - Generic PCM DAC
 - mix and match sound chips!
   - over 200 ready to use presets from computers, game consoles and arcade boards...
